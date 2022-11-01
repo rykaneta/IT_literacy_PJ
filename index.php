@@ -1,4 +1,4 @@
 <?php
-var_dump( php.info() );
+php.info();
 ?>
 
